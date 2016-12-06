@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/jsebfranck/elastic-beanstalk.js",
   "dependencies": {
-    "aws-sdk": "2.3.13",
+    "aws-sdk": "2.7.9",
     "chai": "^1.10.0",
     "q": "^1.1.2",
     "request": "^2.53.0",
